@@ -1,0 +1,14 @@
+- [Profil study abroad Tristan](tristan-study-abroad-profile.md) — SMK kelas 12 Bali, target CS S1 fully funded, bimbingan Schoters
+- [Daftar kampus yang berlaku](tristan-campus-board-latest.md) — Papan Kandidat 12 Sep: 17 kampus test-optional; Yale/Harvard/MIT/Brown/Dartmouth sudah dikeluarkan
+- [Timeline IELTS & SAT](tristan-ielts-sat-timeline.md) — paket IELTS habis ~20 Feb 2027; itu yang mengunci tanggal tes
+- [Protokol "what's today?"](tristan-whats-today-protocol.md) — kalau dia tanya itu, baca COACH_SCHEDULE.md dan jawab dengan format pendek yang sudah ditentukan
+- [Aturan penjadwalan eksternal](tristan-external-scheduling-rule.md) — dia menyelesaikan yang dijadwalkan orang lain, nol yang harus dimulai sendiri; jangan pernah melanggar ini saat merancang
+- [Konteks kesehatan mental](tristan-mental-health-context.md) — minta diperlakukan sebagai pelatih, bukan terapis; jangan menurunkan standar
+- [Sistem Notion belajar](tristan-notion-study-system.md) — pola hub + tracker harian P1/P2/P3; workspace kehabisan free block per 8 Sep 2026
+- [Pushback biasanya benar](tristan-pushback-is-usually-right.md) — kalau dia menyanggah, cek ulang sumber primernya, jangan bertahan
+- [Framing "tidak bisa digagalkan"](tristan-unfailable-framing.md) — sebut terang saat sebuah tugas tidak punya nilai lulus; itu menurunkan bebannya jauh
+- [Register email Tristan](tristan-email-register.md) — kontraksi hampir nol (bukan nol), gaya angka, `%` bukan `per cent`; cek korpusnya dulu
+- [Sopan santun email](tristan-email-courtesy.md) — jangan atur cara orang membalas, jangan lebih-lebihkan frekuensi, jangan tagih tawaran bertanggal
+- [Struktur email dan lampiran](tristan-email-structure.md) — email bawa kail, lampiran bawa angka; verbatim berarti verbatim
+- [Sarah Marzen sebagai pembaca](sarah-marzen-as-a-reader.md) — sudah setuju menulis surat dan menawarkan lab; keluhan tulisannya diulang empat kali
+- [Gerbang gaya anti-AI](gerbang-gaya-cek-gaya-ai.md) - aturan keras A/B/C plus pemeriksa `cek_gaya_ai.py`; jalankan sebelum menyerahkan tulisan apa pun
